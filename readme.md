@@ -7,6 +7,14 @@ pip --version
 pip 22.0.4 from /usr/local/lib/python3.10/site-packages/pip (python 3.10)
 ```
 
+## OS info
+
+```
+OS: Debian GNU/Linux 11 (bullseye) x86_64
+Kernel: 5.16.19-76051619-generic 
+CPU: AMD Ryzen Threadripper 3990X (128) @ 2.900GHz
+```
+
 ## Error log
 
 ```bash
